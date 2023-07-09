@@ -1,0 +1,17 @@
+
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.block-col{
+  width: 100%;
+  height: 20rem;
+}
+
+.colors{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
